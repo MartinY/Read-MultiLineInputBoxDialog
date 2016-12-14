@@ -1,5 +1,4 @@
 # Read-MultiLineInputBoxDialog
-Read-MultiLineInputBoxDialog
 
 Reversion of:
     Name: Show-MultiLineInputDialog
